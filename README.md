@@ -1,2 +1,2 @@
-# Akbank Python Bootcamp Project
+# Building a simple library management system
  
